@@ -30,7 +30,8 @@
         "supports_usb_connection": false
     },
 
-
+    "layer_start_x": { "value": "extruder_prime_pos_x" },
+    "layer_start_y": { "value": "extruder_prime_pos_y" },
 
     "overrides": {
         "machine_name": { "default_value": "Ultimaker 3" },
